@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DCBox")(type "KiCad")(uri "${KIPRJMOD}/DCBox.kicad_sym")(options "")(descr ""))
+)
